@@ -1,4 +1,4 @@
-{ "escalations":[
+[
 	{
 		"created": "2020-11-10T17:26:26.85",
 		"resolved": null,
@@ -53,4 +53,4 @@
 		"message": "Escalation is for DWS5 (DSE4 Building B in Sequentra). Site is under construction and nearing launch, the previous lease was used for parking purposes originally and is now being build out. TCO date is scheduled for 11/13 and is now in danger of being pushed due to the Landlord having an easement dispute with the utility providers. The site currently can not get gas service due to PSE requiring an easement for a previously installed gas line and the Landlord can not sign the easement as it it interferes with an existing exclusive easement with City of Everett",
 		"id": 4 
 	}
-]}
+]
