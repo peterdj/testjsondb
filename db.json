@@ -10,8 +10,7 @@
 		"escCode": "orange",
 		"highestESCCode": "orange",
 		"escType": "Parking / Traffic",
-		"message": "The landlord at UTN1 has contacted Jeff Mabrey for the past two
-		days regarding Amazon drivers blocking access to neighboring tenant truck yards. The landlord forwarded an email from the neighboring tenant stating that our drivers are arguing with them about parking. Jeff has contacted the site leader Joey Alzola for a resolution ASAP.",
+		"message": "The landlord at UTN1 has contacted Jeff Mabrey for the past two days regarding Amazon drivers blocking access to neighboring tenant truck yards. The landlord forwarded an email from the neighboring tenant stating that our drivers are arguing with them about parking. Jeff has contacted the site leader Joey Alzola for a resolution ASAP.",
 		"id": 1 },
 	{
 		"created": "2020-11-10T15:20:42.71",
@@ -24,8 +23,7 @@
 		"escCode": "yellow",
 		"highestESCCode": "yellow",
 		"escType": "Parking / Traffic",
-		"message": "The landlord notified site leadership (Adam Sauter) and TOM
-		Managers (Eddy Lin and Brian Bluemke) that we continue to have issues with the truck yard entrances being backed-up onto Tradepoint avenue, sparrows point blvd, and over flowing onto wharf road. The Landlord is receiving complaints from neighboring tenants and the SHA contractor who is completing local bridge improvements. The landlord has requested AMZN find a permanent solution to expedite the ongoing trailer congestion. The Landlord did note that the second inbound lane isn't being utilized at this point which could provide some queue relief.",
+		"message": "The landlord notified site leadership (Adam Sauter) and TOM Managers (Eddy Lin and Brian Bluemke) that we continue to have issues with the truck yard entrances being backed-up onto Tradepoint avenue, sparrows point blvd, and over flowing onto wharf road. The Landlord is receiving complaints from neighboring tenants and the SHA contractor who is completing local bridge improvements. The landlord has requested AMZN find a permanent solution to expedite the ongoing trailer congestion. The Landlord did note that the second inbound lane isn't being utilized at this point which could provide some queue relief.",
 		"id": 2 },
 	{
 		"created": "2020-11-09T16:19:09.0266667",
@@ -38,9 +36,7 @@
 		"escCode": "yellow",
 		"highestESCCode": "yellow",
 		"escType": "Parking / Traffic",
-		"message": "OSP: PKG_WAYNE1\nThe Landlord reached out to the RAM on 11/7
-		about continued illegal parking on-site. A site walk was completed with the
-		local OTR team and the Landlord; however, the drivers continue unallocated spaces. The Landlord continues to issue violations been ignored. RAM e-mailed OTR, Community Ops, AMZL Issues for remediation. @amzl-issues @raymshao @vegasmv @wendtc @bccapo",
+		"message": "OSP: PKG_WAYNE1\nThe Landlord reached out to the RAM on 11/7 about continued illegal parking on-site. A site walk was completed with the local OTR team and the Landlord; however, the drivers continue unallocated spaces. The Landlord continues to issue violations been ignored. RAM e-mailed OTR, Community Ops, AMZL Issues for remediation. @amzl-issues @raymshao @vegasmv @wendtc @bccapo",
 		"id": 3	
 	}, 
 	{
@@ -54,8 +50,7 @@
 		"escCode": "orange",
 		"highestESCCode": "yellow",
 		"escType": "Permitting / Jurisdictional",
-		"message": "Escalation is for DWS5 (DSE4 Building B in Sequentra). Site is
-		under construction and nearing launch, the previous lease was used for parking purposes originally and is now being build out. TCO date is scheduled for 11/13 and is now in danger of being pushed due to the Landlord having an easement dispute with the utility providers. The site currently can not get gas service due to PSE requiring an easement for a previously installed gas line and the Landlord can not sign the easement as it it interferes with an existing exclusive easement with City of Everett",
+		"message": "Escalation is for DWS5 (DSE4 Building B in Sequentra). Site is under construction and nearing launch, the previous lease was used for parking purposes originally and is now being build out. TCO date is scheduled for 11/13 and is now in danger of being pushed due to the Landlord having an easement dispute with the utility providers. The site currently can not get gas service due to PSE requiring an easement for a previously installed gas line and the Landlord can not sign the easement as it it interferes with an existing exclusive easement with City of Everett",
 		"id": 4 
 	}
 ]
